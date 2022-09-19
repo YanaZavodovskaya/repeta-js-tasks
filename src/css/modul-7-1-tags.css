@@ -1,0 +1,20 @@
+.tags {
+  list-style: none;
+  display: flex;
+  outline: 1px solid red;
+  padding: 10px;
+}
+
+.tags__item {
+  margin-right: 10px;
+}
+
+.tags-btn {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.tags__btn--active {
+  color: white;
+  background-color: navy;
+}
