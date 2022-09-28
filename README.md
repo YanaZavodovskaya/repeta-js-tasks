@@ -32,12 +32,13 @@
 - Node.js и npm
 
   - установка
-  - инициализация и packege.json -[npmjs.com](https://www.npmjs.com/):
-  - npm init сам вводишь данные
-  - npm init -y или npm init --yes создаёт пэкэйдж автоматически
+  - инициализация и packege.json:
+    - npm init сам вводишь данные
+    - npm init -y или npm init --yes создаёт пэкэйдж автоматически
 
 - Работа с пакетами:
 
+  - [npmjs.com](https://www.npmjs.com/):
   - npm i устанавливает пакет
     После установки пакета в проект добавится папка node_modules. Её нельзя пушить на гитхаб, поэтому добавляем её в .gitignore (node_modules/)
   - npm remove joi удаление пакета
