@@ -63,6 +63,11 @@
 - [Babel](https://babeljs.io/)
   - заходим в setup > cli
   - ставим **npm install --save-dev @babel/core @babel/cli** В пакете джейсон появится "devDependencies"
+  - пишем в скрипты **"build": "babel src -d lib"**
+  - запускаем **npm run build**
+  - ставим **npm install @babel/preset-env --save-dev**
+  - создаём **babel.config.json**
+  - пишем туда ({"presets": ["@babel/preset-env"]})
 - CLI и npm-скрипты
 - Пресеты
 - [Browserslist](https://github.com/browserslist/browserslist/)
