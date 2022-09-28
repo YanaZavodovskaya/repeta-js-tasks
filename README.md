@@ -32,15 +32,16 @@
 ### Node.js и npm
 
 - установка
-- инициализация и packege.json:
+- инициализация и packege.json
 
   - **npm init** сам вводишь данные
   - **npm init -y** или **npm init --yes** создаёт пэкэйдж автоматически
 
 - Работа с пакетами:
 
-  - [npmjs.com](https://www.npmjs.com/):
+  - [npmjs.com](https://www.npmjs.com/)
   - **npm i** устанавливает пакет
+  - **npm i** или **npm instal** устанавливает пакеты от которых зависит проект
     После установки пакета в проект добавится папка node_modules. Её нельзя пушить на гитхаб, поэтому добавляем её в .gitignore (node_modules/)
   - **npm remove joi** удаление пакета
   - **npm run qwe**
@@ -48,7 +49,14 @@
 
 - CommonJS модули
 - npm скрипты
+  - **gh-pages**
+  - **parcel-bundler**
+  - **posthtml-include**
+  - **sass**
+  - **express**
 - pre и post
+  - "prestart": "echo \"Запустится перед скриптом start\"",
+  - "poststart": "echo \"Запустится после скрипта start\"",
 
 ### Транспиляция кода
 
