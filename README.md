@@ -71,6 +71,8 @@
 - CLI и npm-скрипты
 - Пресеты
 - [Browserslist](https://github.com/browserslist/browserslist/)
+  - создаём файл в проекте **.browserslistrc**
+  - пишем в него настройки для каких пользователей этот проект. Например: last 2 version или Chrome since 80
 - [Сборщик Parcel](https://parceljs.org/)
 - [ECMAScript модули](https://exploringis.com/es6/ch.modules.html)
   - (default) Дефолтный экспорт и импорт
