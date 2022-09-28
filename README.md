@@ -61,6 +61,8 @@
 ## Транспиляция кода
 
 - [Babel](https://babeljs.io/)
+  - заходим в setup > cli
+  - ставим **npm install --save-dev @babel/core @babel/cli** В пакете джейсон появится "devDependencies"
 - CLI и npm-скрипты
 - Пресеты
 - [Browserslist](https://github.com/browserslist/browserslist/)

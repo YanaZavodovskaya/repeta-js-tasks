@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "qwe": "echo \"Привет это скрипт qwe из package.json\"",
     "start": "node modul-8-1-node.js",
-    
     "script-1": "echo \"Выполнит script-1\"",
     "script-2": "echo \"Выполнит script-2\"",
-    "all": "npm run script-1 && npm run script-2"
+    "all": "npm run script-1 && npm run script-2",
+    "server": "node modul-8-1-server.js",
+    "build": "babel src -d lib"
   },
   "repository": {
     "type": "git",
@@ -28,5 +29,10 @@
     "joi": "^17.6.1",
     "shortid": "^2.2.16",
     "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3"
   }
 }
