@@ -6,9 +6,10 @@
 [Шпаргалка-2](https://habr.com/ru/company/ruvds/blog/445270/)
 
 - Открыть
-  'ctrl + ~'
-  'view > terminal'
-  через палитру 'ctrl + shift + p'
+
+  - 'ctrl + ~'
+  - 'view > terminal'
+  - через палитру 'ctrl + shift + p'
 
 - Основные полезные команды
   путь (pwd)
