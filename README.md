@@ -29,7 +29,7 @@
   - **rmdir css** удаляет создаёт дерикторию(папку)
   - **rm -rf** удалит папку со всеми файлами в ней
 
-### Node.js и npm
+## Node.js и npm
 
 - установка
 - инициализация и packege.json
@@ -58,7 +58,7 @@
   - "prestart": "echo \"Запустится перед скриптом start\"",
   - "poststart": "echo \"Запустится после скрипта start\"",
 
-### Транспиляция кода
+## Транспиляция кода
 
 - [Babel](https://babeljs.io/)
 - CLI и npm-скрипты
@@ -66,3 +66,6 @@
 - [Browserslist] (https://github.com/browserslist/browserslist/)
 - [Сборщик Parcel] (https://parceljs.org/)
 - [ECMAScript модули] (https://exploringis.com/es6/ch.modules.html)
+  - (default) Дефолтный экспорт и импорт
+  - (named) Именованный экспорт и импорт
+  - (namespace) Импорт пространства имён
