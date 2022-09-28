@@ -15,19 +15,19 @@
 
   - путь (pwd)
   - лист (ls)
-    ls -l выведет файлы списком
-    ls -la выведет все скрытые файлы
+    - ls -l выведет файлы списком
+    - ls -la выведет все скрытые файлы
   - навигация (cd)
   - очистка 'clear' или 'ctrl + l'
   - создание (touch)
-    -touch css- создаёт файл
-    -mkdir css- создаёт дерикторию(папку)
+    - touch css- создаёт файл
+    - mkdir css- создаёт дерикторию(папку)
   - переименование/перемещение (mv)
-    -mv css scss- переименовывает файл
+    - mv css scss- переименовывает файл
   - удаление (rm)
-    -rm scss- удаляет файл
-    -rmdir css- удаляет создаёт дерикторию(папку)
-    -rm -rf удалит папку со всеми файлами в ней
+    - rm scss- удаляет файл
+    - rmdir css- удаляет создаёт дерикторию(папку)
+    - rm -rf удалит папку со всеми файлами в ней
 
 - Node.js и npm
 
@@ -50,9 +50,9 @@
   pre и post
 
 - Транспиляция кода
-  [Babel](https://babeljs.io/)
-  CLI и npm-скрипты
-  Пресеты
-  [Browserslist] (https://github.com/browserslist/browserslist/)
-  [Сборщик Parcel] (https://parceljs.org/)
-  [ECMAScript модули] (https://exploringis.com/es6/ch.modules.html)
+  - [Babel](https://babeljs.io/)
+  - CLI и npm-скрипты
+  - Пресеты
+  - [Browserslist] (https://github.com/browserslist/browserslist/)
+  - [Сборщик Parcel] (https://parceljs.org/)
+  - [ECMAScript модули] (https://exploringis.com/es6/ch.modules.html)
