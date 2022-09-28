@@ -1,0 +1,32 @@
+{
+  "name": "repeta-js-tasks",
+  "version": "1.0.0",
+  "description": "Модуль-8.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "qwe": "echo \"Привет это скрипт qwe из package.json\"",
+    "start": "node modul-8-1-node.js",
+    "prestart": "echo \"Запустится перед скриптом start\"",
+    "poststart": "echo \"Запустится после скрипта start\"",
+    "script-1": "echo \"Выполнит script-1\"",
+    "script-2": "echo \"Выполнит script-2\"",
+    "all": "npm run script-1 && npm run script-2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanaZavodovskaya/repeta-js-tasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YanaZavodovskaya/repeta-js-tasks/issues"
+  },
+  "homepage": "https://github.com/YanaZavodovskaya/repeta-js-tasks#readme",
+  "dependencies": {
+    "joi": "^17.6.1",
+    "shortid": "^2.2.16",
+    "uuid": "^9.0.0"
+  }
+}
