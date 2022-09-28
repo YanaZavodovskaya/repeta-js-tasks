@@ -63,9 +63,9 @@
 - [Babel](https://babeljs.io/)
 - CLI и npm-скрипты
 - Пресеты
-- [Browserslist] (https://github.com/browserslist/browserslist/)
-- [Сборщик Parcel] (https://parceljs.org/)
-- [ECMAScript модули] (https://exploringis.com/es6/ch.modules.html)
+- [Browserslist](https://github.com/browserslist/browserslist/)
+- [Сборщик Parcel](https://parceljs.org/)
+- [ECMAScript модули](https://exploringis.com/es6/ch.modules.html)
   - (default) Дефолтный экспорт и импорт
   - (named) Именованный экспорт и импорт
   - (namespace) Импорт пространства имён
