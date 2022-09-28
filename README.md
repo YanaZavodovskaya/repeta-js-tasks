@@ -1,6 +1,6 @@
-#Модуль-8-1
+# Модуль-8-1
 
-##ТЕРМИНАЛ
+## ТЕРМИНАЛ
 
 - [Шпаргалка-1](https://tproger.ru/translations/bash-cheatsheet/)
 - [Шпаргалка-2](https://habr.com/ru/company/ruvds/blog/445270/)
